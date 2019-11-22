@@ -9,7 +9,7 @@ describe('ApiFetch', () => {
   });
 
   test('', async () => {
-    const lyrics = await apiFetch.doctorLookupPromise();
+    const doctorLookup = await apiFetch.doctorLookupPromise();
     expect().toEqual("");
   });
 

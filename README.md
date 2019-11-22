@@ -44,3 +44,7 @@ _HTML, CSS, Bootstrap, jQuery, JavaScript_
 *This software is available under the MIT License*
 
 Copyright (c) 2019 **_Bryon Burke**
+
+Specifications:
+
+get api key look for doctor
