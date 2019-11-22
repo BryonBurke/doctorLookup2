@@ -48,3 +48,4 @@ Copyright (c) 2019 **_Bryon Burke**
 Specifications:
 
 get api key look for doctor
+put in search terms
